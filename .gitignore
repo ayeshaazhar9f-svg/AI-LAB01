@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints
+*.ipynb
+
+# Data (don't commit large datasets)
+data/
+*.csv
+*.xlsx
+
+# IDE
+.vscode/
+.idea/
+
+# Outputs
+outputs/
+*.png
+*.jpg
+*.pickle
+*.h5
